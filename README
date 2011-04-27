@@ -1,0 +1,4 @@
+A google map to plot elevation with fresnel zones for wireless network planning
+
+edit marks.js to set default mark positions
+you'll need to edit map.html to set the default map position :-P
